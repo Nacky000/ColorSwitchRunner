@@ -73,3 +73,39 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Node.js
+node_modules/
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+
+# Build
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Visual Studio
+.vs/
+*.VC.opendb
+*.VC.db
+
+# Visual Studio Upgrade
+UpgradeLog*.htm
+UpgradeLog*.xml
+
+# Rider
+.idea/
+
+# Windows
+Thumbs.db
