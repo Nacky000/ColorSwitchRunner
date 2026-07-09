@@ -53,7 +53,7 @@ Jump担当は移動タイミング，Switch担当は床状態の管理を担当�
 ### タイトル画面
 
 <p align="center">
-<img src="Docs/images/title.png" width="700">
+<img src="Assets/_Project/Docs/images/title.png" width="700">
 </p>
 
 ---
@@ -61,7 +61,7 @@ Jump担当は移動タイミング，Switch担当は床状態の管理を担当�
 ### ゲームプレイ
 
 <p align="center">
-<img src="Docs/images/gameplay.png" width="700">
+<img src="Assets/_Project/Docs/images/gameplay.png" width="700">
 </p>
 
 ---
